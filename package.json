@@ -19,6 +19,7 @@
   },
   "scripts": {
     "compile": "yarn hardhat compile",
-    "deploy": "yarn hardhat deploy"
+    "deploy": "yarn hardhat deploy",
+    "test": "yarn hardhat test"
   }
 }
