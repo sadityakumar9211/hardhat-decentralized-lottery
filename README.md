@@ -1,7 +1,7 @@
 # Decentralized Lottery System 
- ### This project utilizes `hardhat` framework for developing, testing, debugging, deploying the smart contract written in solidity for EVM compatible chains. 
- ### This is the complete backend of a Dapp which supports a decentralized lottery(Raffle). 
- ### This project uses `Chainlink VRF`(Verifiable Randomness Function) and `Chainlink Keepers`
+> This project utilizes `hardhat` framework for developing, testing, debugging, deploying the smart contract written in solidity for EVM compatible chains. 
+- This is the complete backend of a Dapp which supports a decentralized lottery(Raffle). 
+> This project uses `Chainlink VRF`(Verifiable Randomness Function) and `Chainlink Keepers`
 
 ### Usage
 #### Pre Requisites
