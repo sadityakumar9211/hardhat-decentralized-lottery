@@ -1,3 +1,5 @@
+//This script enters the raffle when run 
+
 const { ethers } = require("hardhat")
 
 async function enterRaffle() {
